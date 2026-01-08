@@ -111,6 +111,7 @@ jupyter notebook notebooks/Market_Sentiment_Analysis.ipynb
 
 ## 🙌 Author
 
+Made with ❤️
 **Anushka Khadatkar**  
 Data Analyst | Data Science Enthusiast
 
