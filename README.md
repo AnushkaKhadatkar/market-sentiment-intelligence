@@ -100,6 +100,19 @@ pip install -r requirements.txt
 3. Run the notebook:
 jupyter notebook notebooks/Market_Sentiment_Analysis.ipynb
 
+---
+## ⚠️ Limitations
 
-## 📁 Repository Structure
+- The analysis is **descriptive**, not causal; sentiment does not directly explain price movements.
+- News coverage is **uneven across dates**, leading to missing sentiment on some days.
+- Cryptocurrency markets are influenced by multiple external factors not captured in this project.
+- Rule-based sentiment analysis (VADER) may miss context, sarcasm, or domain-specific language.
+- The study focuses on a **single asset (Bitcoin)**, limiting generalizability.
+
+---
+
+## 🙌 Author
+
+**Anushka Khadatkar**  
+Data Analyst | Data Science Enthusiast
 
