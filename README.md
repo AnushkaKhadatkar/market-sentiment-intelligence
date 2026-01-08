@@ -85,8 +85,6 @@ The goal is to understand **risk behavior under different sentiment conditions**
 
 ---
 
----
-
 ## ⚙️ Setup Instructions
 
 1. Clone the repository:
@@ -101,6 +99,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/Market_Sentiment_Analysis.ipynb
 
 ---
+
 ## ⚠️ Limitations
 
 - The analysis is **descriptive**, not causal; sentiment does not directly explain price movements.
